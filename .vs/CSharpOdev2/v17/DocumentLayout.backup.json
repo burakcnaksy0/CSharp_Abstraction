@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\\u0130nterfaces\\iarabayak\u0131tdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\\u0130nterfaces\\iarabayak\u0131tdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\programc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\programc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\mu\u0308du\u0308r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\mu\u0308du\u0308r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\classes\\genelmu\u0308du\u0308r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\classes\\genelmu\u0308du\u0308r.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\abstracts\\cal\u0131san.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\abstracts\\cal\u0131san.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\\u0130nterfaces\\idenizdeyuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\\u0130nterfaces\\idenizdeyuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\\u0130nterfaces\\ih\u0131zl\u0131git.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\\u0130nterfaces\\ih\u0131zl\u0131git.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\csharp e\u011Fitim kamp\u0131\\csharpodev2\\csharpodev2\\\u0130nterfaces\\ihavadau\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B6CEC-DF08-4EBF-A381-C51E3F79D67C}|CSharpOdev2\\CSharpOdev2.csproj|solutionrelative:csharpodev2\\\u0130nterfaces\\ihavadau\u00E7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArabaYak\u0131tDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IArabaYak\u0131tDurumu.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\\u0130nterfaces\\IArabaYak\u0131tDurumu.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IArabaYak\u0131tDurumu.cs*",
+              "RelativeToolTip": "CSharpOdev2\\\u0130nterfaces\\IArabaYak\u0131tDurumu.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:32:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mu\u0308du\u0308r.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Mu\u0308du\u0308r.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Mu\u0308du\u0308r.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Mu\u0308du\u0308r.cs",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Mu\u0308du\u0308r.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:59:06.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenelMu\u0308du\u0308r.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\GenelMu\u0308du\u0308r.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\GenelMu\u0308du\u0308r.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\GenelMu\u0308du\u0308r.cs",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\GenelMu\u0308du\u0308r.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:58:53.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cal\u0131san.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Abstracts\\Cal\u0131san.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Abstracts\\Cal\u0131san.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Abstracts\\Cal\u0131san.cs",
+              "RelativeToolTip": "CSharpOdev2\\Abstracts\\Cal\u0131san.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:57:35.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Porsche.cs*",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Porsche.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:51:29.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Mercedes.cs*",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Mercedes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:51:20.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHavadaU\u00E7.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IHavadaU\u00E7.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\\u0130nterfaces\\IHavadaU\u00E7.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IHavadaU\u00E7.cs",
+              "RelativeToolTip": "CSharpOdev2\\\u0130nterfaces\\IHavadaU\u00E7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:46:33.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Bmw.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Bmw.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Bmw.cs*",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Bmw.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:51:07.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Program.cs*",
+              "RelativeToolTip": "CSharpOdev2\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:43:01.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Programc\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Programc\u0131.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Programc\u0131.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Programc\u0131.cs",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Programc\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:59:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Stajyer.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\Classes\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\Classes\\Stajyer.cs",
+              "RelativeToolTip": "CSharpOdev2\\Classes\\Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:59:27.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDenizdeYuz.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IDenizdeYuz.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\\u0130nterfaces\\IDenizdeYuz.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IDenizdeYuz.cs",
+              "RelativeToolTip": "CSharpOdev2\\\u0130nterfaces\\IDenizdeYuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:46:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IH\u0131zl\u0131Git.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IH\u0131zl\u0131Git.cs",
+              "RelativeDocumentMoniker": "CSharpOdev2\\\u0130nterfaces\\IH\u0131zl\u0131Git.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\Csharp E\u011Fitim Kamp\u0131\\CSharpOdev2\\CSharpOdev2\\\u0130nterfaces\\IH\u0131zl\u0131Git.cs",
+              "RelativeToolTip": "CSharpOdev2\\\u0130nterfaces\\IH\u0131zl\u0131Git.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:45:10.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

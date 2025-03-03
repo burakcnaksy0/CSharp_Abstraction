@@ -1,0 +1,7 @@
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\bin\Debug\CSharpOdev2.exe.config
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\bin\Debug\CSharpOdev2.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\bin\Debug\CSharpOdev2.pdb
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\obj\Debug\CSharpOdev2.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\obj\Debug\CSharpOdev2.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\obj\Debug\CSharpOdev2.exe
+C:\Users\burak\OneDrive\Masaüstü\Csharp Eğitim Kampı\CSharpOdev2\CSharpOdev2\obj\Debug\CSharpOdev2.pdb
